@@ -1,2 +1,0 @@
-“Usuario=katzt”
-model name	: Intel(R) Core(TM) Ultra 7 256V
